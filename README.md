@@ -1,10 +1,20 @@
-### Hi there 👋 I am Sarthak Duggal
-## I am a student and Full Stack Developer
+currently working on
 
-- 🔭 I’m currently working on React.JS
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on web development
-- 🤔 I’m looking for help with algorithms
-- 💬 Ask me about HTML, CSS, JavaScript and Node.js
-- 📫 How to reach me: I am currently working on my Portfolio site, till then Email me on :- duggal.sarthak12@gmail.com
-- ⚡ Fun fact: I can write with my both hands!!
+<img src="assets/python.svg" alt="python" title="python" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/fastapi.svg" alt="fastapi" title="fastapi" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/mysql.svg" alt="mysql" title="mysql" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/sqlalchemy.svg" alt="sqlalchemy" title="sqlalchemy" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/amazonaws.svg" alt="amazonaws" title="amazonaws" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+currently learning
+
+<img src="assets/go.svg" alt="go" title="go" width="50" height="50" />
+
+also knows
+
+<img src="assets/typescript.svg" alt="typescript" title="typescript" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/nodedotjs.svg" alt="nodedotjs" title="nodedotjs" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/react.svg" alt="react" title="react" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/mongodb.svg" alt="mongodb" title="mongodb" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/prisma.svg" alt="prisma" title="prisma" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
