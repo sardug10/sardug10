@@ -1,10 +1,6 @@
 currently working on
 
-<img src="assets/python.svg" alt="python" title="python" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/fastapi.svg" alt="fastapi" title="fastapi" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/mysql.svg" alt="mysql" title="mysql" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/sqlalchemy.svg" alt="sqlalchemy" title="sqlalchemy" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/amazonaws.svg" alt="amazonaws" title="amazonaws" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://backend.codecrafters.io/progress/git/1c2e903f-b2b2-490f-ba7b-f28aa4426ecf" alt="codecrafters-git" title="make-your-own-git" />
 
 currently learning
 
@@ -16,6 +12,11 @@ currently learning
 
 also knows
 
+<img src="assets/python.svg" alt="python" title="python" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/fastapi.svg" alt="fastapi" title="fastapi" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/mysql.svg" alt="mysql" title="mysql" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/sqlalchemy.svg" alt="sqlalchemy" title="sqlalchemy" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/amazonaws.svg" alt="amazonaws" title="amazonaws" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/typescript.svg" alt="typescript" title="typescript" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/nodedotjs.svg" alt="nodedotjs" title="nodedotjs" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/react.svg" alt="react" title="react" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
