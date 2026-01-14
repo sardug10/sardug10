@@ -1,6 +1,8 @@
-currently working on
+Currently working on
 
 <img src="https://backend.codecrafters.io/progress/git/1c2e903f-b2b2-490f-ba7b-f28aa4426ecf" alt="codecrafters-git" title="make-your-own-git" />
+
+https://backend.codecrafters.io/progress/http-server/1bfdf29f-437c-4afd-ba46-548f2c2077e2
 
 currently learning
 
