@@ -8,7 +8,7 @@ currently learning
 
 <img src="assets/go.svg" alt="go" title="go" width="50" height="50" />
 
-[![roadmap.sh](https://roadmap.sh/card/tall/670fed23791f57dd60558343?variant=dark)](https://roadmap.sh)
+<img src="https://roadmap.sh/card/tall/670fed23791f57dd60558343?variant=dark)](https://roadmap.sh" alt="codecrafters-git" title="make-your-own-git" />
 
 
 
