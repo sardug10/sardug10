@@ -4,15 +4,9 @@ Currently working on
 
 <img src="https://backend.codecrafters.io/progress/http-server/1bfdf29f-437c-4afd-ba46-548f2c2077e2" alt="codecrafters-git" title="make-your-own-git" />
 
-
-
 currently learning
 
 <img src="assets/go.svg" alt="go" title="go" width="50" height="50" />
-
-<img src="https://roadmap.sh/card/tall/670fed23791f57dd60558343?variant=dark)](https://roadmap.sh" alt="codecrafters-git" title="make-your-own-git" />
-
-
 
 also knows
 
